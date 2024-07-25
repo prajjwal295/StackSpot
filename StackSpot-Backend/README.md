@@ -53,13 +53,10 @@ These environment variables are crucial for the proper functioning and security 
         `npm install`
 
 6.  Start the server:
-            bashCopy code
+    bashCopy code
 
             `npm start`
             `npm run dev (for development)`
-
-
-
 
 ## API Documentation
 
@@ -130,14 +127,11 @@ For detailed API endpoint descriptions, refer to the API documentation.\_
 
 Feel free to provide some suggestions and feedback on the project. If you liked the project, drop a star on the GitHub repository. Your appreciation means a lot to me. Thank you for giving this project your time. Have a great day! 😃
 
-## License
-
-MIT LICENSE [LICENSE](LICENSE)
 
 ## Developed By
 
-👤 Vansh Chavda
+👤 Prajjwal Mishra
 
-- Email : vanshchavda111@gmail.com
-- Twitter : [@vansh*chavda*](https://twitter.com/vansh_chavda_)
-- LinkedIn : [Vansh Chavda](https://www.linkedin.com/in/vanshchavda07)
+- Email : mishraprajjwal295@gmail.com
+- Twitter : [@Prajjwal*Mishra*](https://twitter.com/Prajjwal295)
+- LinkedIn : [Prajjwal Mishra](https://www.linkedin.com/in/prajjwal295)
