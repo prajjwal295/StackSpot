@@ -67,7 +67,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 👤 Prajjwal Mishra
 
 - Email : mishraprajjwal295@gmail.com
-- Twitter : [@vansh*chavda*](https://twitter.com/Prajjwal295)
-- LinkedIn : [Vansh Chavda](https://www.linkedin.com/in/prajjwal295)
+- Twitter : [Prajjwal Mishra](https://twitter.com/Prajjwal295)
+- LinkedIn : [Prajjwal Mishra](https://www.linkedin.com/in/prajjwal295)
 
 Keep Coding! 🚀
